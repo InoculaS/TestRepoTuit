@@ -1,0 +1,62 @@
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+
+    <td class="ecw-crosswordarea">
+
+
+
+
+
+    </td>
+
+    <td valign="top" style="padding-left: 1em;">
+
+      <div id="welcomemessage" class="ecw-answerbox" style="display:none;">
+        <h3>Xush kelibsiz!</h3>
+        <p>Boshlash uchun krossvorddagi so'zni bosing.</p>
+      </div>
+
+      <div id="answerbox" class="ecw-answerbox" style="display:none;">
+        <h3 id="wordlabel" class="ecw-wordlabel"> &nbsp;</h3>
+        <div id="wordinfo" class="ecw-wordinfo"> </div>
+        <div id="wordclue" class="ecw-cluebox"> </div>
+        <div style="margin-top: 1em;">
+          <input class="ecw-input" id="wordentry" type="text" size="24"
+            style="font-weight: bold; text-transform:uppercase;" onkeypress="WordEntryKeyPress(event)"
+            onchange="WordEntryKeyPress(event)" />
+        </div>
+        <div id="worderror" class="ecw-worderror"></div>
+
+        <table border="0" cellspacing="0" cellpadding="0" width="100%" style="margin-top:1em;">
+          <tbody>
+            <tr>
+              <td>
+                <button id="cheatbutton" type="button" class="ecw-input ecw-button"
+                  onclick="CheatClick();">Topolmadim</button>
+              </td>
+              <td align="right">
+                <button id="okbutton" type="button" class="ecw-input ecw-button" onclick="OKClick();"
+                  style="font-weight: bold;">OK</button> &nbsp;
+                <button id="cancelbutton" type="button" class="ecw-input ecw-button"
+                  onclick="DeselectCurrentWord();">Bekor qilish</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>
+
+      <div id="congratulations" class="ecw-answerbox" style="display:none;">
+        <h3>Tabriklaymiz!</h3>
+        <p>Siz ushbu <a href="http://www.eclipsecrossword.com" style="color: black; text-decoration:none;"> krossvordni
+            muvaffaqiyatli tugatdingiz.</a>.
+        </p>
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+<div style="margin-top: 1em;">
+  <button id="checkbutton" type="button" onclick="CheckClick();" style="display: none;">Natijani ko'rish</button>
+</div>

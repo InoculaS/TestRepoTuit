@@ -1,0 +1,23 @@
+<div>
+  <mat-tab-group [disableRipple]="false">
+    <mat-tab [label]="tests.labName" *ngFor="let tests of labTests;let i = index">
+      <h1 class="text-3xl text-center text-red-500">
+        {{tests.labName}}
+      </h1>
+      <br>
+
+
+
+      <div class="ml-5 mb-5" *ngFor="let test of tests.tests;let j = index">
+        <strong>savol {{j +1 }}):</strong> <em>{{test.question}}</em> <br>
+        <strong>javob:</strong> <em>{{test.answer}}</em> <br>
+        <div class="ml-5" *ngFor="let option of test.options;let k = index">
+
+          <input type="radio" [name]="'lab'+i+'_'+j" [value]="option" [attr.id]="'lab'+i+'_'+j+'_'+k">
+          <label [for]="'lab'+i+'_'+j+'_'+k">{{option}}</label>
+
+        </div>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</div>

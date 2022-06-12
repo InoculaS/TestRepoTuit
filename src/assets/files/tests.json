@@ -1,0 +1,394 @@
+[
+  [
+    {
+      "question": " Jismlarning elektrlanganligini sezish, kuzatish uchun qo’llaniladigan asbob nomini toping ?",
+      "answer": "Elektroskop",
+      "options": ["Elektrometr", "Kondensator", "Elektrofor"]
+    },
+    {
+      "question": "Atom tuzilishini tajriba asosida o’rgangan olim nomi ?",
+      "answer": " Rezerford",
+      "options": ["Faradey", "Kulon", "Demokrit"]
+    },
+    {
+      "question": "Elektrlanganlik darajasini tavsiflovchi fizik kattalik… deb ataladi ?",
+      "answer": "Elektr zaryadi  ",
+      "options": ["Kuchlanganlik", "Kuchlanish   ", "Sig’im"]
+    },
+    {
+      "question": "Dielektrik so’zining ma’nosi ?",
+      "answer": "O’tkazmas   ",
+      "options": ["Zaryad     ", "Sig’im", "O’tkazuvchi     "]
+    },
+    {
+      "question": "Bir xil ishorali elektrlangan jismlar bir biridan… ?",
+      "answer": "Itariladi     ",
+      "options": ["Zaryadlanadi     ", "Ishqalanadi", "Tortiladi     "]
+    },
+    {
+      "question": "36 nC zaryadning undan 9 va 18 sm masofada yotgan nuqtalardagi maydon kuchlanganligini toping ?",
+      "answer": "40 kN/C; 10 kN/C",
+      "options": ["30;10", "20;10    ", "10;10"]
+    },
+    {
+      "question": "Elektron, proton, neytron qaysi moddani ichki tuzilishi ?",
+      "answer": "Atom",
+      "options": ["Molekula ", "Vodorod    ", "Kislorod"]
+    },
+    {
+      "question": " Akkumulator so’zining ma’nosi ?",
+      "answer": "To’plovchi",
+      "options": ["O’tkazuvchi   ", "O’tkazmas   ", "Oqim     "]
+    },
+    {
+      "question": "Elektr maydon kuchlanganlik formulasini toping ?",
+      "answer": "E=F/q",
+      "options": ["F=E*q   ", "q=F/E", "V=s/t"]
+    },
+    {
+      "question": "Farad qaysi fizik kattalikni o’lchov birligi ?",
+      "answer": "Sig’im     ",
+      "options": ["Zaryad    ", "Kuch    ", "Kuchlanganlik"]
+    },
+    {
+      "question": "Turli ishora bilan zaryadlangan bulutlar orasida yoki bulut bilan yer sirti orasida sodir bo’ladigan kuchli elektr uchquni... deyiladi ?",
+      "answer": "Chaqmoq   ",
+      "options": ["Yashin qaytargich", "Momaqaldiroq   ", "Yashin     "]
+    },
+    {
+      "question": " Uyali telefon 3 V kuchlanishli tok manbayiga ega. Ma’lum vaqt davomida undan 100 C zaryad o’tganida qancha ish bajariladi ?",
+      "answer": "300J   ",
+      "options": ["100 J", "200 J", " 400 J"]
+    },
+    {
+      "question": " Kuchlanishni o’lchovchi asbob nomini toping ?",
+      "answer": "Voltmetr",
+      "options": ["Termometr   ", "Elektrometr  ", "Ampermetr  "]
+    },
+    {
+      "question": "Kuchlanish formulasi ?",
+      "answer": "U=A/q   ",
+      "options": ["A=U*q   ", "q=A/u", "E=F/q"]
+    },
+    {
+      "question": " Sig’imlari 60 pF, 100 pF va 150 pF bo’lgan kondensatorlar ketma-ket ulangan. Umumiy sig’imni toping ?",
+      "answer": "30 pF",
+      "options": ["20 pF", "40 pF   ", "10 pF    "]
+    }
+  ],
+
+  [
+    {
+      "question": "Zanjirdagi tok kuchi qanday asbob yordamida o’lchanadi?",
+      "answer": "ampermetrda",
+      "options": ["voltmetrda", "kilovoltda", "b va c javob to’g’ri"]
+    },
+    {
+      "question": "Tok kuchi qaysi harf bilan belgilanadi?",
+      "answer": "A",
+      "options": ["I", "V", "R"]
+    },
+    {
+      "question": "Ampermetr elektr zanjirdagi tok kuchi o’lchanadigan iste’molchi bilan qanday ulanadi?",
+      "answer": "ketma – ket",
+      "options": ["parallel", "uzib – ulab", "A va B javob to’g’ri"]
+    },
+    {
+      "question": "Elektr xossasini ifodalovchi kattalik nima deb ataladi?",
+      "answer": "solishtirma qarshilik",
+      "options": ["rheostat", "resistor", "elektr qarshilik"]
+    },
+    {
+      "question": "Dazmol qancha tok kuchi ishlatiladi?",
+      "answer": "2,0 A",
+      "options": ["0,1 A", "0,2 A", "0,1 A"]
+    },
+    {
+      "question": "Elektr zanjiridagi tokni rostlash uchun qo’llaniladigan turli qarshilikli elektr asbob qanday asbob?",
+      "answer": "resistor",
+      "options": ["potensiometr", "amper", "reostat"]
+    },
+    {
+      "question": "Elektr zanjirdagi tok kuchi va o’zgartirish uchun qo’llaniladigan elektr asbob qanday asbob?",
+      "answer": "amper",
+      "options": ["potensiometr", "Potensiometr", "ampermetr"]
+    },
+    {
+      "question": "Elekter zanjiridagi kuchlanishni rostlash, o’zgartirish uchun qo’llaniladigan elektr asbob qanday asbob?",
+      "answer": "potensiometr ",
+      "options": ["voltmeter", "ampermetr", " c va d to’g’ri javob"]
+    },
+    {
+      "question": "“O’tkazgichdagi tok kuchi uning uchlari orasidagi kuchlanishga to’g’ri proporsional, o’tkazgichning qarshiligiga teskari proporsional” – Bu qaysi qonunning ta’rifi?",
+      "answer": "Om",
+      "options": ["Kapler", "Faradey", "Nyuton"]
+    },
+    {
+      "question": "Iste’molchilar simni qanday ulaganda o’tkazgich orasidagi kuchlanish bir xil bo’ladi?",
+      "answer": "parallel",
+      "options": ["ketma – ket", "ketma – ket emas", "parallel va ketma-ket"]
+    },
+    {
+      "question": "Elektr qarshilik qanday harf bilan belgilanadi?",
+      "answer": "R",
+      "options": ["V", "A", "I"]
+    },
+    {
+      "question": "Zaryadli zarralarning tartibli harakati, ya’ni oqimi nima deb ataladi?",
+      "answer": "elektr tok ",
+      "options": ["elektr maydon", "sim", "saqlagich"]
+    },
+    {
+      "question": "Qarshiligi 440 Ω bo’lgan elektr lampochka 0,5 A li tokda yonmoqda, Lompochka qisqichlaridagi kuchlanish qancha?",
+      "answer": "220 V",
+      "options": ["20 V", "550 V", "300 V"]
+    },
+    {
+      "question": "Elektr kuchlanish qanday asbob yordamida o’lchanadi?",
+      "answer": "1000 V",
+      "options": ["10000 V", "10 V", "100 V"]
+    }
+  ],
+
+  [
+    {
+      "question": "Xonadondagi barcha elektr iste'molchilar o'zaro parallel ulangan bo'ladi.",
+      "answer": "parallel",
+      "options": ["elektroliz ", "qisqa tutashuv", "neytral"]
+    },
+    {
+      "question": " Simyog’och simlarining eng pastdagisi …………. bo’ladi?",
+      "answer": "neytral ",
+      "options": ["parallel", "elektroliz", "qisqa tutashuv"]
+    },
+    {
+      "question": "Ionlar orasida Kulon kuchi tufayli vujudga keladigan ionli ……………… bog'lanish deb ataladi.",
+      "answer": "kimyoviy  bog'lanish",
+      "options": ["elektroliz", "neytral ", "parallel"]
+    },
+    {
+      "question": "Suyuqlikda ionlarga ajraladigan va shu sababli elektr tokini  o'tkazadigan moddalar deb ……………….. ataladi.",
+      "answer": "elektrolitlar",
+      "options": ["kimyoviy  bog'lanish", " elektroliz", "to’g’ri javob yo’q"]
+    },
+    {
+      "question": "Elektrolitdan tok o'tayotganda elektrodlarda modda ajralib chiqish hodisasi ……..……… deb ataladi.",
+      "answer": "elektroliz",
+      "options": ["elektrolitlar", "neytral", "kimyoviy  bog'lanish"]
+    },
+    {
+      "question": "Shakl hosil qilish uchun buyumlar sirtiga elektrolitik usulda metall  yugurtirish …………….. deb ataladi.",
+      "answer": "galvanoplastika",
+      "options": ["kimyoviy  bog'lanish", "elektroliz", "parallel"]
+    },
+    {
+      "question": "Gazlarda elektr o'tkazuvchanlik ………………… va  elektronlarning tartibli harakatidan iborat.",
+      "answer": "elektr maydonda ionlar",
+      "options": ["elektroliz", "kimyoviy  bog'lanish", "galvanoplastika"]
+    },
+    {
+      "question": "Ionizator ta'siri to'xtatilishi bilan to'xtaydigan razryad …………………………. deb ataladi.",
+      "answer": "nomustaqil  razryad",
+      "options": ["kimyoviy  bog'lanish", "galvanoplastika", "elektroliz"]
+    },
+    {
+      "question": "To’k manbayining ixtirochisi kim?",
+      "answer": "Volta",
+      "options": ["Farade", "Amper", "Nuyuton"]
+    },
+    {
+      "question": " Voltmetrning ist’emolchiga nisbatan ulanishi ………………………….. deyiladi?",
+      "answer": "paralel ulanish",
+      "options": [
+        "zaryadli ulanish",
+        "elektron  ulanish",
+        "parallel va zaryadli ulanish"
+      ]
+    },
+    {
+      "question": "Ionizator ta'siri to'xtatilganda ham davom etaveradigan razryad  …………………… deb ataladi.",
+      "answer": "mustaqil razryad",
+      "options": ["galvanostegiya", "nomustaqil  razryad", "sun'iy magnitlar"]
+    },
+    {
+      "question": "Tabiiy magnit uzoq vaqt ta'sir ettirilganda  magnitlangan po'lat bo'laklari ……..……..  deb ataladi.",
+      "answer": "sun'iy magnitlar",
+      "options": ["galvanostegiya", "nomustaqil  razryad", "gaz razryadi  "]
+    },
+    {
+      "question": "Elektrolizdan foydalanib, buyumlarning sirtini qiyin oksidlanadigan  metallar bilan qoplash ………………deb ataladi. ",
+      "answer": "galvanostegiya",
+      "options": ["mustaqil  razryad", "gaz razryadi  ", "neytron"]
+    },
+    {
+      "question": "Gaz orqali elektr toki o’tishi jarayoni ……………… deb ataladi.",
+      "answer": "gaz razryadi ",
+      "options": ["nomustaqil  razryad", "galvanostegiya", "mustaqil  razryad"]
+    },
+    {
+      "question": "Elektr tayoqcha nima deb ataladi?",
+      "answer": "mo`yna",
+      "options": ["neytron", "kaxrabo", "ebonit"]
+    }
+  ],
+
+  [
+    {
+      "question": "Rotor so’zining lotincha ma’nosi?",
+      "answer": "aylantirmoq",
+      "options": ["o’zgarmas", "yurgazmoq", "qo’zg’almas"]
+    },
+    {
+      "question": "1822 – yilda mangit maydon yordamida o’tkazgichda elektr toki hosil qilsh masalasini o’z oldiga maqsad qilib qo’ygan ingiliz olimi?",
+      "answer": "Maykl Faradey",
+      "options": ["Ersted", "Andre M.A", "Nyuton"]
+    },
+    {
+      "question": "Ingliz olimi Faradeyning qaysi kashfiyoti XIX asrning eng buyuk kashfiyoti bo’ladi?",
+      "answer": "elektromagnit induksiya",
+      "options": ["induksiya", "magnisiya", "to’g’ri javob yo’q"]
+    },
+    {
+      "question": "“Ossillo grafo” so’zining lotincha ma’nosi?",
+      "answer": "tebranaman, yozaman",
+      "options": ["tebranaman", "o’qiyman", "to’xtayman, o’qiyman"]
+    },
+    {
+      "question": "Jozif Genri nechanchi yilda temir o’zak ustiga izolatsiyalangan simni ko’p qatlam qilib o’rab, kata kuchga ega bo’lgan elektro magnitni yaratdi?",
+      "answer": "1828 – yilda ",
+      "options": ["1827 – yilda", "1829 – yilda", "1825 – yilda"]
+    },
+    {
+      "question": "Mehanik energiyani elektr energiyaga aylantiruvchi asbob nima deyiladi?",
+      "answer": "induksion tok generatori",
+      "options": [
+        "a va c javob to’g’ri",
+        "induksion suv generatori",
+        "induksion generator"
+      ]
+    },
+    {
+      "question": "Elektr energiyani ishlab chiqarishda asosan nechta stantsiyadan foydalaniladi?",
+      "answer": "3 ta",
+      "options": ["5 ta", "2 ta", "1 ta"]
+    },
+    {
+      "question": "Shamol elektro stansiyada shamolning mexanik energiyasi elektr energiyaga ………..",
+      "answer": "aylantiradi",
+      "options": ["ulaydi", "bog’aydi", "javob yo’q"]
+    },
+    {
+      "question": "Mikrofon mexanik tebranishlarni qanday tebranishga aylantirib beradi?",
+      "answer": "elektr",
+      "options": ["o’zgartirmaydi", "yonuvchi", "so’nuvchi "]
+    },
+    {
+      "question": "Takomillashgan transformatorlarning foydali ish koffitsiyenti necha foizni tashkil qiladi?",
+      "answer": "99-99,5 %",
+      "options": ["99-99,1 %", "99-97,7 %", "99-98,3 %"]
+    },
+    {
+      "question": "O’zgarmas tok o’tganda o’tkazgichga nima bo’ladi?",
+      "answer": "qiziydi",
+      "options": ["o’zgarmaydi", "parchalanadi", "soviydi"]
+    },
+    {
+      "question": "Gidroelektro stansiyada suvning qanday energiyasi elektr energiyasiga aylantiriladi?",
+      "answer": "mexanik",
+      "options": ["elektr", "a javob to’g’ri", "atom"]
+    },
+    {
+      "question": "Atom elektrostansiyasida nima energiyasi elektr energiyaga aylantiriladi?",
+      "answer": "atom",
+      "options": ["uran", "yadro", "suv"]
+    },
+    {
+      "question": "Shamol elektrostansiyasida nima mexanik energiyasi elektr energiyaga aylantiriladi?",
+      "answer": "shamol",
+      "options": ["atom", "uran", "suv"]
+    },
+    {
+      "question": "“Transformator” so’zining lotincha ma’nosi?",
+      "answer": "o’zgartiraman",
+      "options": ["pasaytiraman", "qayta ishlayman", "parchalayman"]
+    }
+  ],
+
+  [
+    {
+      "question": "“O’tkazgichdagi tok kuchi uning uchlari orasidagi kuchlanishga to’g’ri proporsional, o’tkazgichning qarshiligiga teskari proporsional” – Bu qaysi qonunning ta’rifi?",
+      "answer": "Om",
+      "options": ["Kapler", "Faradey", "Nyuton"]
+    },
+    {
+      "question": "Iste’molchilar simni qanday ulaganda o’tkazgich orasidagi kuchlanish bir xil bo’ladi?",
+      "answer": "parallel",
+      "options": ["ketma – ket", "ketma – ket emas", "parallel va ketma-ket"]
+    },
+    {
+      "question": "Elektr qarshilik qanday harf bilan belgilanadi?",
+      "answer": "R",
+      "options": ["V", "A", "I"]
+    },
+    {
+      "question": "Zaryadli zarralarning tartibli harakati, ya’ni oqimi nima deb ataladi?",
+      "answer": "elektr tok ",
+      "options": ["elektr maydon", "sim", "saqlagich"]
+    },
+    {
+      "question": " Jismlarning elektrlanganligini sezish, kuzatish uchun qo’llaniladigan asbob nomini toping ?",
+      "answer": "Elektroskop",
+      "options": ["Elektrometr", "Kondensator", "Elektrofor"]
+    },
+    {
+      "question": "Atom tuzilishini tajriba asosida o’rgangan olim nomi ?",
+      "answer": " Rezerford",
+      "options": ["Faradey", "Kulon", "Demokrit"]
+    },
+    {
+      "question": "Elektrlanganlik darajasini tavsiflovchi fizik kattalik… deb ataladi ?",
+      "answer": "Elektr zaryadi  ",
+      "options": ["Kuchlanganlik", "Kuchlanish   ", "Sig’im"]
+    },
+    {
+      "question": "Dielektrik so’zining ma’nosi ?",
+      "answer": "O’tkazmas   ",
+      "options": ["Zaryad     ", "Sig’im", "O’tkazuvchi     "]
+    },
+    {
+      "question": "Bir xil ishorali elektrlangan jismlar bir biridan… ?",
+      "answer": "Itariladi     ",
+      "options": ["Zaryadlanadi     ", "Ishqalanadi", "Tortiladi     "]
+    },
+    {
+      "question": "Mikrofon mexanik tebranishlarni qanday tebranishga aylantirib beradi?",
+      "answer": "elektr",
+      "options": ["o’zgartirmaydi", "yonuvchi", "so’nuvchi "]
+    },
+    {
+      "question": "Takomillashgan transformatorlarning foydali ish koffitsiyenti necha foizni tashkil qiladi?",
+      "answer": "99-99,5 %",
+      "options": ["99-99,1 %", "99-97,7 %", "99-98,3 %"]
+    },
+    {
+      "question": "O’zgarmas tok o’tganda o’tkazgichga nima bo’ladi?",
+      "answer": "qiziydi",
+      "options": ["o’zgarmaydi", "parchalanadi", "soviydi"]
+    },
+    {
+      "question": "Elektrolizdan foydalanib, buyumlarning sirtini qiyin oksidlanadigan  metallar bilan qoplash ………………deb ataladi. ",
+      "answer": "galvanostegiya",
+      "options": ["mustaqil  razryad", "gaz razryadi  ", "neytron"]
+    },
+    {
+      "question": "Gaz orqali elektr toki o’tishi jarayoni ……………… deb ataladi.",
+      "answer": "gaz razryadi ",
+      "options": ["nomustaqil  razryad", "galvanostegiya", "mustaqil  razryad"]
+    },
+    {
+      "question": "Elektr tayoqcha nima deb ataladi?",
+      "answer": "mo`yna",
+      "options": ["neytron", "kaxrabo", "ebonit"]
+    }
+  ]
+]
