@@ -399,6 +399,7 @@ var BadChars = "\`~!@^*()_={[}]\\|:;\"',<>/?";
           return Hash;
         }
 
+
       </script>
 `
 }
